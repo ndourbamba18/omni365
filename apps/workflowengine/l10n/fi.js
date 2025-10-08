@@ -39,7 +39,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Tarkistusta #%s ei ole olemassa",
     "Check %s is invalid or does not exist" : "Tarkistus %s on virheellinen tai sitä ei ole olemassa",
     "Flow" : "Kulku",
-    "Nextcloud workflow engine" : "Nextcloudin työnkulkumoottori",
+    "Omni365 workflow engine" : "Omni365in työnkulkumoottori",
     "Remove filter" : "Poista suodatin",
     "Folder" : "Kansio",
     "Images" : "Kuvat",

@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "La condition #%s n'existe pas",
     "Check %s is invalid or does not exist" : "La condition %s est invalide ou n'existe pas",
     "Flow" : "Flux",
-    "Nextcloud workflow engine" : "Moteur de workflow Nextcloud",
+    "Omni365 workflow engine" : "Moteur de workflow Omni365",
     "Select a filter" : "Sélectionner un filtre",
     "Select a comparator" : "Sélectionnez un comparateur",
     "Remove filter" : "Retirer le filtre",

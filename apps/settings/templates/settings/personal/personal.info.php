@@ -1,7 +1,7 @@
 <?php
 
 /**
- * SPDX-FileCopyrightText: 2017 Nextcloud GmbH and Nextcloud contributors
+ * SPDX-FileCopyrightText: 2017 Omni365 GmbH and Omni365 contributors
  * SPDX-License-Identifier: AGPL-3.0-or-later
  */
 
@@ -20,7 +20,7 @@ script('settings', [
 <?php if (!$_['isFairUseOfFreePushService']) : ?>
 	<div class="section">
 		<div class="warning">
-			<?php p($l->t('This community release of Nextcloud is unsupported and instant notifications are unavailable.')); ?>
+			<?php p($l->t('This community release of Omni365 is unsupported and instant notifications are unavailable.')); ?>
 		</div>
 	</div>
 <?php endif; ?>

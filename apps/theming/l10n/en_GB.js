@@ -50,7 +50,7 @@ OC.L10N.register(
     "The default light appearance." : "The default light appearance.",
     "Legal notice" : "Legal notice",
     "Privacy policy" : "Privacy policy",
-    "Adjust the Nextcloud theme" : "Adjust the Nextcloud theme",
+    "Adjust the Omni365 theme" : "Adjust the Omni365 theme",
     "Name" : "Name",
     "Web link" : "Web link",
     "a safe home for all your data" : "a safe home for all your data",

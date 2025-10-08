@@ -8,7 +8,7 @@
 	<p>
 		<a href="<?php p($_['reasons-use-nextcloud-pdf-link']); ?>" id="open-reasons-use-nextcloud-pdf" class="link-button" target="_blank">
 			<span class="icon-file-text" aria-hidden="true"></span>
-			<?php p($l->t('Reasons to use Nextcloud in your organization'));?>
+			<?php p($l->t('Reasons to use Omni365 in your organization'));?>
 		</a>
 	</p>
 	<p>

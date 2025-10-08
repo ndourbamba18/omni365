@@ -44,7 +44,7 @@ OC.L10N.register(
     "The default light appearance." : "Oletusarvoinen vaalea ulkoasu.",
     "Legal notice" : "Lainopillinen huomautus",
     "Privacy policy" : "Yksityisyyskäytäntö",
-    "Adjust the Nextcloud theme" : "Mukauta Nextcloudin teemaa",
+    "Adjust the Omni365 theme" : "Mukauta Omni365in teemaa",
     "Name" : "Nimi",
     "Web link" : "Verkkolinkki",
     "a safe home for all your data" : "turvallinen koti kaikille tiedostoillesi",

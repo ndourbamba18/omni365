@@ -36,14 +36,14 @@
 		<?php } ?>
 
 			<li>
-				<a href="https://docs.nextcloud.com" class="help-list__link icon-category-office" target="_blank" rel="noreferrer noopener">
+				<a href="https://docs.heritage.africa" class="help-list__link icon-category-office" target="_blank" rel="noreferrer noopener">
 					<span class="help-list__text">
 						<?php p($l->t('Documentation')); ?> ↗
 					</span>
 				</a>
 			</li>
 			<li>
-				<a href="https://help.nextcloud.com" class="help-list__link icon-comment" target="_blank" rel="noreferrer noopener">
+				<a href="https://docs.heritage.africa" class="help-list__link icon-comment" target="_blank" rel="noreferrer noopener">
 					<span class="help-list__text">
 						<?php p($l->t('Forum')); ?> ↗
 					</span>
@@ -60,21 +60,21 @@
 		<div class="help-wrapper">
 			<div class="help-content">
 				<h2 class="help-content__heading">
-					<?php p($l->t('Nextcloud help & privacy resources')); ?>
+					<?php p($l->t('Omni365 help & privacy resources')); ?>
 				</h2>
 				<div class="help-content__body">
 				<a class="button" target="_blank" rel="noreferrer noopener"
-					href="<?php print_unescaped($_['urlUserDocs']); ?>">
+					href="https://docs.heritage.africa">
 					<?php p($l->t('Account documentation')); ?>  ↗
 				</a>
 				<a class="button" target="_blank" rel="noreferrer noopener"
-					href="<?php print_unescaped($_['urlAdminDocs']); ?>">
+					href="https://docs.heritage.africa">
 					<?php p($l->t('Administration documentation')); ?>  ↗
 				</a>
-				<a href="https://docs.nextcloud.com" class="button" target="_blank" rel="noreferrer noopener">
+				<a href="https://docs.heritage.africa" class="button" target="_blank" rel="noreferrer noopener">
 					<?php p($l->t('General documentation')); ?> ↗
 				</a>
-				<a href="https://help.nextcloud.com" class="button" target="_blank" rel="noreferrer noopener">
+				<a href="https://docs.heritage.africa" class="button" target="_blank" rel="noreferrer noopener">
 					<?php p($l->t('Forum')); ?> ↗
 				</a>
 				<?php if ($_['legalNoticeUrl']) { ?>

@@ -26,7 +26,7 @@ class MailProvider implements IDeclarativeSettingsForm {
 			'section_id' => 'server',
 			'storage_type' => DeclarativeSettingsTypes::STORAGE_TYPE_EXTERNAL,
 			'title' => $this->l->t('Mail Providers'),
-			'description' => $this->l->t('Mail provider enables sending emails directly through the user\'s personal email account. At present, this functionality is limited to calendar invitations. It requires Nextcloud Mail 4.1 and an email account in Nextcloud Mail that matches the user\'s email address in Nextcloud.'),
+			'description' => $this->l->t('Mail provider enables sending emails directly through the user\'s personal email account. At present, this functionality is limited to calendar invitations. It requires Omni365 Mail 4.1 and an email account in Omni365 Mail that matches the user\'s email address in Omni365.'),
 
 			'fields' => [
 				[

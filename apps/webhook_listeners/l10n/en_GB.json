@@ -1,5 +1,5 @@
 { "translations": {
     "Webhooks" : "Webhooks",
-    "Nextcloud webhook support" : "Nextcloud webhook support"
+    "Omni365 webhook support" : "Omni365 webhook support"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

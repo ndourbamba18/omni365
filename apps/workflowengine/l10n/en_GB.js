@@ -45,7 +45,7 @@ OC.L10N.register(
     "Check #%s does not exist" : "Check #%s does not exist",
     "Check %s is invalid or does not exist" : "Check %s is invalid or does not exist",
     "Flow" : "Flow",
-    "Nextcloud workflow engine" : "Nextcloud workflow engine",
+    "Omni365 workflow engine" : "Omni365 workflow engine",
     "Select a filter" : "Select a filter",
     "Select a comparator" : "Select a comparator",
     "Remove filter" : "Remove filter",
